@@ -5,7 +5,7 @@ description: "The Digital Humanities Research Institute (DHRI) is an intensive, 
 registerlink: 'https://docs.google.com/forms/d/e/1FAIpQLSdTspH3b2ksmqSNvMot8ndcKrHrUx4vkd1D-y18kQLPy5dc2A/viewform'
 
 # Name of building or site of event
-venue: Graduate Center
+venue: CUNY Graduate Center
 
 # Street address of event
 address: 365 5th Ave, New York, NY 10016
@@ -14,8 +14,8 @@ address: 365 5th Ave, New York, NY 10016
 language: "en"
 
 # Start date
-datestart: 2023-01-01
-enddate: 2023-01-01
+datestart: 2024-17-01
+enddate: 2024-22-01
 
 instructors: ["Steve Zweibel", "Leanne Fan"]
 helpers: ["Zachary Lloyd"]
