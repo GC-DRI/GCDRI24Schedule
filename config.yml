@@ -1,11 +1,11 @@
-organizername: Lisa Rhody
+organizername: GC Digital Initiatives
 institution: CUNY Graduate Center
-event: Digital Humanities Research Institute
-description: "The Digital Humanities Research Institute (DHRI) is an intensive, community-oriented, and foundational approach to learning technical skills in service of humanities teaching and learning. The DHRI curriculum features workshops, tutorials, glossaries, resources, reading materials, and more that have been developed at The Graduate Center, City University of New York since 2016."
+event: Graduate Center Digital Humanities Research Institute
+description: "The GC Digital Research Institute (DRI) is an introduction to core digital research skills that can be applied widely to different kinds of projects. This institute is catered toward building foundational skills and will be paced accordingly to ensure those who are new will leave feeling more confident in their skills. DRI is designed for beginning learners—those who have little or no prior experience working with a programming language."
 registerlink: 'https://docs.google.com/forms/d/e/1FAIpQLSdTspH3b2ksmqSNvMot8ndcKrHrUx4vkd1D-y18kQLPy5dc2A/viewform'
 
 # Name of building or site of event
-venue: CUNY Graduate Center
+venue: Online, hosted by GC Digital Initiatives
 
 # Street address of event
 address: 365 5th Ave, New York, NY 10016
@@ -17,8 +17,8 @@ language: "en"
 datestart: 2024-01-17
 enddate: 2024-01-22
 
-instructors: ["Steve Zweibel", "Leanne Fan"]
-helpers: ["Zachary Lloyd"]
+instructors: ["Leanne Fan", "Rebecca Kriesel","Zach Lloyd", "Silvia Rivera Alfaro", "Tuka Al-Sahlani", "Ian Williams", "Lisa Rhody", "Stephen Zweibel"]
+helpers: ["Stefanos Milkidis"]
 
 # Emails for instructors, organizers, or other contacts
 emails: ["", ""]
