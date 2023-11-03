@@ -14,8 +14,8 @@ address: 365 5th Ave, New York, NY 10016
 language: "en"
 
 # Start date
-datestart: 2024-17-01
-enddate: 2024-22-01
+datestart: 2024-01-17
+enddate: 2024-01-22
 
 instructors: ["Steve Zweibel", "Leanne Fan"]
 helpers: ["Zachary Lloyd"]
