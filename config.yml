@@ -41,17 +41,4 @@ sessions:
    title: "Introduction to Git and GitHub"
    workshop: git
    description: "This workshop will introduce you to Git and GitHub, a version control system and a web-based hosting service for software development projects."
- - date: 2024-02-18
-   time: 13:00
-   title: "Day One"
-   description: "Day One of this event"
-   workshop: "https://api.github.com/repos/dhri-curriculum/workshops/contents/python.md"
-   location: "The Graduate Center, CUNY"
-   instructors: ["Stephen Zweibel"]
- - date: 2024-01-19
-   time: 11:00
-   title: "Day Two"
-   description: "Day Two of this event"
-   workshop: "https://api.github.com/repos/dhri-curriculum/workshops/contents/command-line.md"
-   location: "The Graduate Center, CUNY"
-   instructors: ["Lisa M. Rhody"]
+
