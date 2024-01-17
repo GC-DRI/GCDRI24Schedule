@@ -28,21 +28,21 @@ workshopsrepo: 'DRI24'
 
 sessions:
  - date: 2024-01-17
-   time: 09:00
+   time: 09:00 - 10:15
    title: "Welcome to GC DRI"
    description: "During this introductory session, we will introduce all of the instructors and get to know one another. We will give an overview of the DHRIFT platform, which is the website we will use for each of the workshops, and we will cover how to use the features of the curriculum website. There will be time to talk about what workshops we will be covering during the coming week, explanations of what platforms we will be using for communication, and discussion about how to ask questions, troubleshoot, and learn more. By the end of this session, you should feel comfortable with the learning environment for GC DRI and know how to ask questions and get help when you need it."
  - date: 2024-01-17
-   time: 10:30
+   time: 10:30 - 12:30 
    title: "Introduction to the Command Line"
    workshop: command-line
    description: "This workshop will introduce you to the command line, a text-based interface for interacting with your computer. We will cover basic commands, file management, and navigating the file system. Specifically, we will be using a command line interface that has been integrated into DHRIFT, the website we are using for online instruction. The skills we are learning can be used with 'terminal' on Mac or GitBash on Windows computers. You will also be able to use similar syntax when you are using Unix to interact with a server. By the end of this workshop, you will know how to figure out what account you are working in, navigate through a computer's file structures using text commands, create and modify files using text commands, and search for files or strings of text using a text command. These skills are useful when you are installing software on your machine, when you are creating websites with HTML and CSS, or when you are learning how to import data when working with Python."
  - date: 2024-01-18
-   time: 09:00
+   time: 09:00 - 10:30
    title: "Data Literacies"
    workshop: data-literacies
    description: "Insert description of Data Literacies."
  - date: 2024-01-18
-   time: 10:30
+   time: 10:30 - 12:30
    title: "HTML / CSS"
    workshop: html-css
    description: "Insert description of HTML/CSS"
