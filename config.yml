@@ -40,12 +40,12 @@ sessions:
    time: 09:00 - 10:30
    title: "Data Literacies"
    workshop: data-literacies
-   description: "Insert description of Data Literacies."
+   description: "What is data? What counts as data? What are the ethical implications when working with data? How can we manage our data? These are questions we will explore throughout the workshop. Data is foundational to nearly all digital projects and often help us to understand and express our ideas and narratives. Hence, in order to do digital work, we should know how data is captured, constructed, and manipulated. We will also engage with the ethical dimensions of what it means to work with data, from collection to visualization to management."
  - date: 2024-01-18
    time: 10:30 - 12:30
    title: "HTML / CSS"
    workshop: html-css
-   description: "Insert description of HTML/CSS"
+   description: "HTML (Hypertext Markup Language) is used to create and organize the content of a website. CSS (Cascading Style Sheets) is used for website design and layout. Together, these languages form the foundation of the World Wide Web. They are the basis of what one needs to know to create useful and well-designed websites, and to read the source code of existing websites and website templates. This workshop walks participants through the fundamentals of HTML and CSS. The purpose of this unit is to help participants understand the rudiments of making websites, with the intention of providing a strong base of knowledge from which to imagine web-based digital humanities projects."
  - date: 2024-01-19
    time: 9:00 - 12:30 
    title: "Introduction to Python"
@@ -56,3 +56,13 @@ sessions:
    title: "Introduction to Pandas & Jupyter Notebooks"
    workshop: pandas
    description: "Python is a general-purpose programming language suitable for a wide variety of tasks in the digital humanities. Learning Python fundamentals is a gateway to analyzing data, creating visualizations, composing interactive websites, scraping the internet, and engaging in the distant reading of texts. This workshop first introduces participants to core programming concepts such as data types, variables, and functions. Participants will then learn about basic control flow by writing small programs with loops and conditional statements. They will also learn to problem solve, and practice searching for answers and debugging scripts. The workshop wraps up by exposing participants to intermediate tools for further exploration."
+ - date: 2024-01-23
+   time: 10:30 - 12:30
+   title: "Text Analysis with Python"
+   workshop: text-analysis
+   description: "Analyzing textual data opens a new way to interrogate the world. Put simply, it is a way to "read" and interpret the incredible amount of text generated past and present. This workshop will introduce techniques that can help you get a handle on textual data, turn qualitative texts into quantitative objects. We will be using the Natural Language Toolkit (NLTK) package in Python and thinking through how to clean data and start using our analytical muscles to conceptualize and operationalize this textual data."
+ - date: 2024-01-24
+   time: 9:00 - 12:30
+   title: "Creating Simulations with Python"
+   workshop: creating-simulations
+   description: "In this workshop, you will learn how to create very basic simulations in Python. The workshop will employ the logic of Python's 'object-oriented' methodology to create two small simulations: a dice rolling simulation and a Critter simulation that tracks the population growth of an imaginary species of critter based on a variety of factors. These exercises are intended to be a fun introduction to higher-level Python concepts, and to give you a sense of how you can use Python to create simulations that model real-world scenarios."
