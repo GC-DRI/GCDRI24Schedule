@@ -7,6 +7,8 @@ description: "The GC Digital Research Institute (DRI) is an introduction to core
 # Name of building or site of event
 venue: Online, hosted by GC Digital Initiatives
 
+sponsors: [{ name: 'GCDRI', link: 'https://gcdri.commons.gc.cuny.edu/' }]
+
 # Street address of event
 # address: 365 5th Ave, New York, NY 10016
 
