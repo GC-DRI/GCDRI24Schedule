@@ -21,8 +21,8 @@ language: "en"
 datestart: 2024-01-17
 enddate: 2024-01-23
 
-instructors: ["Leanne Fan", "Rebecca Kriesel","Zach Lloyd", "Silvia Rivera Alfaro", "Tuka Al-Sahlani", "Ian Williams", "Lisa Rhody", "Stephen Zweibel"]
-helpers: ["Stefanos Milkidis"]
+# instructors: ["Leanne Fan", "Rebecca Kriesel","Zach Lloyd", "Silvia Rivera Alfaro", "Tuka Al-Sahlani", "Ian Williams", "Lisa Rhody", "Stephen Zweibel"]
+# helpers: ["Stefanos Milkidis"]
 
 workshopsuser: 'GC-DRI'
 workshopsrepo: 'DRI24' 
