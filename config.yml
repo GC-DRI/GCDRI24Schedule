@@ -12,7 +12,7 @@ sponsors: [{ name: 'GCDRI', link: 'https://gcdri.commons.gc.cuny.edu/' }]
 # address of event
 location: 365 5th Ave, New York, NY 10016
 
-contact: [{ name: 'Lisa Rhody', email: ''lrhody@gc.cuny.edu'}]
+contact: [{ name: 'Lisa Rhody', email: 'lrhody@gc.cuny.edu'}]
 
 # Two-letter language code
 language: "en"
