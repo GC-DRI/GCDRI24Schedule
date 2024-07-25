@@ -24,9 +24,6 @@ enddate: 2024-01-23
 instructors: ["Leanne Fan", "Rebecca Kriesel","Zach Lloyd", "Silvia Rivera Alfaro", "Tuka Al-Sahlani", "Ian Williams", "Lisa Rhody", "Stephen Zweibel"]
 helpers: ["Stefanos Milkidis"]
 
-# Emails for instructors, organizers, or other contacts
-emails: ["", ""]
-
 workshopsuser: 'GC-DRI'
 workshopsrepo: 'DRI24' 
 
